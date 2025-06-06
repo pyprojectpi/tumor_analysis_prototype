@@ -20,10 +20,3 @@ This project implements an AI-powered system for **brain tumor classification, d
 
 ---
 
-## 📂 Repository Structure
-├── best_resnet_model.pth # Trained ResNet-18 model weights
-├── best_yolov12_weights.pt # Trained YOLOv12 weights
-├── sam_vit_h.pth # Pretrained SAM checkpoint
-├── app.py # Main application script with Gradio interface
-├── requirements.txt # Python dependencies
-└── README.md # Project overview and instructions
