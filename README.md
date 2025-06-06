@@ -20,3 +20,7 @@ This project implements an AI-powered system for **brain tumor classification, d
 
 ---
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/pyprojectpi/brain-tumor-analysis.git
+   cd brain-tumor-analysis
